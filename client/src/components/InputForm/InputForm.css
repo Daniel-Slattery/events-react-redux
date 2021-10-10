@@ -1,0 +1,13 @@
+.InputForm {
+  margin: 30px;
+  display: flex;
+  flex-direction: column;
+}
+
+.inputBox {
+  margin: 5px;
+}
+
+button {
+  margin: 5px;
+}
